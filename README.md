@@ -2,7 +2,7 @@
 ## Тестовый каталог для обновлений прошивки. 
 ### Список файлов:
 - test.txt
-- README.md - этот файл\
+- README.md - этот файл
 
 ### Путь для просмотра файлов средствами GitHub:
 https://github.com/GushchinDmitry/xcom_dev/blob/main/[файл]
