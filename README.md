@@ -3,7 +3,7 @@
 ### Список файлов:
 - test.txt
 - README.md - этот файл\
-\
+
 ### Путь для просмотра файлов средствами GitHub:
 https://github.com/GushchinDmitry/xcom_dev/blob/main/[файл]
 ### Путь для прямого доступа к файлам извне:
