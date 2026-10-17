@@ -1,0 +1,28 @@
+{ 
+  "name":    "", 
+  "comment": "", 
+  "file":    "fw.1.0.1.dev.upd", 
+  "version": "1", 
+  "current_firmware": 
+  { 
+    "name":    "", 
+    "comment": "", 
+    "version": "1.0.1.dev", 
+    "date":    "Mar 01 2026", 
+    "time":    "01:01:09", 
+    "file":    "fw.1.0.1.dev.bin", 
+    "md5":     "", 
+    "update_servers_list": "" 
+  }, 
+  "new_firmware": 
+  { 
+    "name":    "", 
+    "comment": "", 
+    "version": "1.0.2.dev", 
+    "date":    "Mar 10 2026", 
+    "time":    "18:59:59", 
+    "file":    "fw.1.0.2.dev.bin", 
+    "md5":     "", 
+    "update_servers_list": "servers_dev_list.cfg"
+  } 
+} 
