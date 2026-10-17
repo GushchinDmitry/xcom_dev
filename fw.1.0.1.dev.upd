@@ -23,6 +23,6 @@
     "time":    "18:59:59", 
     "file":    "fw.1.0.2.dev.bin", 
     "md5":     "", 
-    "update_servers_list": "servers_dev_list.cfg"
+    "update_servers_list": "servers_list_dev.cfg"
   } 
 } 
