@@ -17,3 +17,6 @@ https://raw.githubusercontent.com/GushchinDmitry/xcom_dev/refs/heads/main/[фа�
 - никаких
 ### 16.10.26
 - приведение в порядок для обновления прошивки...
+### 17.10.26
+- добавлены файлы конфигурации
+- файл servers_dev_list.cfg переименован в servers_list_dev.cfg - везде
