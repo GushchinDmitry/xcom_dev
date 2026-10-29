@@ -27,3 +27,5 @@ https://raw.githubusercontent.com/GushchinDmitry/xcom_dev/refs/heads/main/[фа�
 - файл servers_dev_list.cfg [везде] переименован в servers_list_dev.cfg
 ### 23.10.26
 - выложена тестовая прошивка fw.1.0.2.dev.bin с отключенным SIP!
+### 29.10.26
+- добавлен файл server.dat для проверки соединения [...]
